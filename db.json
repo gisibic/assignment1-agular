@@ -1,0 +1,16 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Product 2 update",
+      "price": 200,
+      "image": "https://picsum.photos/200/200"
+    },
+    {
+      "name": "product 3",
+      "price": 700,
+      "image": "https://images.pexels.com/photos/15925339/pexels-photo-15925339/free-photo-of-bi-n-d-ng-thien-nhien-chim.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+      "id": 4
+    }
+  ]
+}
